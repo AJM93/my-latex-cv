@@ -1,0 +1,1 @@
+Taken From <a href="https://github.com/posquit0/Awesome-CV" title="AwesomeCV">
